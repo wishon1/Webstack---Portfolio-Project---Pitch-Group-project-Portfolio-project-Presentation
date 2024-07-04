@@ -4,8 +4,8 @@
 ## Concepts
 For this project, we expect you to look at these concepts:
 
-[Web Stack Portfolio Project Criteria]()
-[Portfolio Project Idea Bank]()
+* [Web Stack Portfolio Project Criteria]()
+* [Portfolio Project Idea Bank]()
 
 ## Steps of this portfolio project
 * To end the curriculum, the portfolio project is split in 3 parts:
